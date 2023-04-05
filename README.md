@@ -4,7 +4,7 @@ Welcome to my repository for the 90 Days bootcamp where i will be diving deeper 
 
 ### Days
 
-#### 1. [Day 1](./day1): Introduction to Machine Learning
+#### 1. Day 1 : Introduction to Machine Learning
 
   - The chapter introduces the concepts of machine learning, its applications, and its importance in today's world.
   - It explains the difference between traditional programming and machine learning, where the latter involves training a model to find patterns in data and make predictions or           decisions.
