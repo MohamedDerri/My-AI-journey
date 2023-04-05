@@ -25,7 +25,7 @@ Welcome to my repository for the 90 Days bootcamp where i will be diving deeper 
 
 I also spent some time familiarizing myself with Jupyter Notebooks and the various shortcuts and plugins available for data visualization in machine learning. Overall, it was a productive start to the challenge, and I'm excited to continue learning and building my machine learning skills.
 
-   ![Day 2 Results](./day2/images/results.png)
+   ![Day 2 Results](./Day2/images/results.png)
 
 
 ...
