@@ -1,4 +1,4 @@
-## Machine-Deep-Learning-Enchantment-My-90-Day-Challenge-to-Master-the-Art-of-AI
+## Machine/Deep Learning Enchantment : My 90 Day Challenge to Master the Art of AI
 
 Welcome to my repository for the 90 Days bootcamp where i will be diving deeper into the hidden secrets of Machine Learning and Deep Learning! Over the next 90 days, I'll be documenting my progress as I work through the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron and complete other machine learning and deep learning projects.
 
@@ -12,7 +12,7 @@ Welcome to my repository for the 90 Days bootcamp where i will be diving deeper 
   - The chapter discusses the most common types of supervised learning problems: classification (where the model predicts a categorical label) and regression (where the model predicts a continuous numerical value).
   - The importance of preparing the data before feeding it to a machine learning model is emphasized, and the common steps involved in data preparation (such as cleaning, scaling, and feature engineering) are briefly explained.
 
-#### 2. [Day 2](./day2): Setting up the environment
+#### 2. [Day 2](./Day2): Setting up the environment
 
   Today, I started by setting up my environment and exploring the titanic famous dataset. Here's a breakdown of what I accomplished today:
 
@@ -25,7 +25,7 @@ Welcome to my repository for the 90 Days bootcamp where i will be diving deeper 
 
 I also spent some time familiarizing myself with Jupyter Notebooks and the various shortcuts and plugins available for data visualization in machine learning. Overall, it was a productive start to the challenge, and I'm excited to continue learning and building my machine learning skills.
 
-   ![Day 2 Results](./day2/images/results.png)
+   ![Day 2 Results](./Day2/images/output.png)
 
 
 ...
