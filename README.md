@@ -12,7 +12,7 @@ Welcome to my repository for the 90 Days bootcamp where i will be diving deeper 
   - The chapter discusses the most common types of supervised learning problems: classification (where the model predicts a categorical label) and regression (where the model predicts a continuous numerical value).
   - The importance of preparing the data before feeding it to a machine learning model is emphasized, and the common steps involved in data preparation (such as cleaning, scaling, and feature engineering) are briefly explained.
 
-#### 2. [Day 2](./day2): Setting up the environment
+#### 2. [Day 2](./Day2): Setting up the environment
 
   Today, I started by setting up my environment and exploring the titanic famous dataset. Here's a breakdown of what I accomplished today:
 
