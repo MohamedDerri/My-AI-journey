@@ -1,4 +1,4 @@
-## Machine-Deep-Learning-Enchantment-My-90-Day-Challenge-to-Master-the-Art-of-AI
+## Machine/Deep Learning Enchantment : My 90 Day Challenge to Master the Art of AI
 
 Welcome to my repository for the 90 Days bootcamp where i will be diving deeper into the hidden secrets of Machine Learning and Deep Learning! Over the next 90 days, I'll be documenting my progress as I work through the book "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron and complete other machine learning and deep learning projects.
 
