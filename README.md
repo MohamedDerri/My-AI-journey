@@ -11,6 +11,12 @@ Welcome to my repository for the 90 Days bootcamp where i will be diving deeper 
   - The three main categories of machine learning are introduced: supervised learning (where the data is labeled), unsupervised learning (where the data is unlabeled), and reinforcement learning (where the model learns by trial and error through interactions with an environment).
   - The chapter discusses the most common types of supervised learning problems: classification (where the model predicts a categorical label) and regression (where the model predicts a continuous numerical value).
   - The importance of preparing the data before feeding it to a machine learning model is emphasized, and the common steps involved in data preparation (such as cleaning, scaling, and feature engineering) are briefly explained.
+  - Difference between online learning and batch learning and when to use each one of them
+  - Instance-based vs model-based learning
+  - I learned also about the unreasonable effectiveness of Data and the samling bias
+  - Overfitting vs underfitting
+  - Hyperparameter tuning and model selection
+
 
 #### 2. [Day 2](./Day2): Setting up the environment
 
