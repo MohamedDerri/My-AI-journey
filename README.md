@@ -37,14 +37,14 @@ I also spent some time familiarizing myself with Jupyter Notebooks and the vario
 
  In this chapter, we were introduced to an end-to-end project about California Housing Prices, where we learned about the following:
 
-    - Introduction to the California Housing dataset, which contains information about the median housing prices in various districts in California.
-    - Loading the dataset into a Pandas DataFrame and exploring it using various techniques, such as checking for missing values, computing summary statistics, and visualizing the distribution of the target variable (median housing price) and other features.
-    - Creating a test set to evaluate the performance of the machine learning model on unseen data.
-    - Preprocessing the data by scaling the numerical features using Scikit-Learn's StandardScaler, and transforming the categorical feature "ocean proximity" into numerical features using one-hot encoding with Scikit-Learn's OneHotEncoder.
-    - Training a linear regression model on the preprocessed data using Scikit-Learn's LinearRegression, and evaluating its performance using mean squared error and mean absolute error.
-    - Engineering new features, such as the population per household and the rooms per household, to improve the model's performance.
-    - Training a more complex polynomial regression model using Scikit-Learn's PolynomialFeatures.
-    - Introducing the concept of overfitting and underfitting, and showing how to use cross-validation to tune the hyperparameters of the model and select the best model based on its generalization performance on the validation set.
+  - Introduction to the California Housing dataset, which contains information about the median housing prices in various districts in California.
+  - Loading the dataset into a Pandas DataFrame and exploring it using various techniques, such as checking for missing values, computing summary statistics, and visualizing the distribution of the target variable (median housing price) and other features.
+  - Creating a test set to evaluate the performance of the machine learning model on unseen data.
+  - Preprocessing the data by scaling the numerical features using Scikit-Learn's StandardScaler, and transforming the categorical feature "ocean proximity" into numerical features using one-hot encoding with Scikit-Learn's OneHotEncoder.
+  - Training a linear regression model on the preprocessed data using Scikit-Learn's LinearRegression, and evaluating its performance using mean squared error and mean absolute error.
+  - Engineering new features, such as the population per household and the rooms per household, to improve the model's performance.
+  - Training a more complex polynomial regression model using Scikit-Learn's PolynomialFeatures.
+  - Introducing the concept of overfitting and underfitting, and showing how to use cross-validation to tune the hyperparameters of the model and select the best model based on its generalization performance on the validation set.
 
    ![Day 3 Results](./Day3/images/output.png)
 
